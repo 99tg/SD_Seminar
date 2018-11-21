@@ -9,8 +9,8 @@
             "serverInstance": "BC130",
             "authentication": "Windows",
             "startupObjectType": "Page",
-            "startupObjectId": 22,
             "breakOnError": true
+            
         }
     ]
 }
