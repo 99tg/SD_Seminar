@@ -4,6 +4,7 @@ report 50101 SeminarRegParticipantList
     DefaultLayout=RDLC;
     RDLCLayout='./Layouts/SeminarRegParticipantList.rdl';
     UsageCategory=ReportsAndAnalysis;
+    
     dataset
     {
         dataitem(SeminarRegistrationHeader;"CSD Seminar Reg. Header")
